@@ -15,3 +15,4 @@
 - block chain tests
 - block chain to pass/function
 - chain validation tests
+- chain validation to pass/function
