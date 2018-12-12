@@ -7,3 +7,4 @@
 - Mine Block to pass/function
 - Crypto Hash and SHA-256 tests
 - Crypto Hash and SHA-256 to pass/function
+- Hash in Mine block tests + functional code
