@@ -14,3 +14,4 @@
 ## The Chain
 - block chain tests
 - block chain to pass/function
+- chain validation tests
