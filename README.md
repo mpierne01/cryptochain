@@ -26,3 +26,6 @@
 - adding dynamic difficulty and mine rate pass/function
 - adjust the difficulty in the mine block tests
 - adjust the difficulty in the mine block pass/function
+
+#average work test
+- average work performed to mine
