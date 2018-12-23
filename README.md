@@ -24,3 +24,4 @@
 - difficulty and nonce pass/function
 - adding dynamic difficulty and mine rate tests
 - adding dynamic difficulty and mine rate pass/function
+- adjust the difficulty in the mine block tests
