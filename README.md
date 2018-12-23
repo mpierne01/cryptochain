@@ -19,7 +19,7 @@
 - chain replacement
 - adding stubs to the tests jest mock and error mineBlock
 
-# Proof of work
+## Proof of work
 - difficulty and the nonce tests
 - difficulty and nonce pass/function
 - adding dynamic difficulty and mine rate tests
@@ -27,5 +27,8 @@
 - adjust the difficulty in the mine block tests
 - adjust the difficulty in the mine block pass/function
 
-#average work test
+## Average work test
 - average work performed to mine
+
+## Proof of Work Enhancements
+- binary hashes
