@@ -20,12 +20,12 @@ static isValidChain(chain) {
   };
 
   for (let i=1; i<chain.length; i++) {
-    const (timestamp, lastHash, data) = chain[i];
+    const (timestamp, lastHash, nonce, difficulty, data) = chain[i];
 
     const actualLastHash = chain[i-1].hash;
-    
+
     if (hash !== validatedHash) return false;
-    const validatedHash = cryptoHash(timestamp, lastHash, data);
+    const validatedHash = cryptoHash(timestamp, lastHash, nonce, difficulty, data,);
 
     if (hash !== validatedHash) return false;
   }

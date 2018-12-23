@@ -21,3 +21,5 @@
 
 # Proof of work
 - difficulty and the nonce tests
+- difficulty and nonce pass/function
+-
