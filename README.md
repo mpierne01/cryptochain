@@ -33,4 +33,9 @@
 ## Proof of Work Enhancements
 - binary hashes
 - binary hash refactor
-- prevent difficulty jumps tests + functionality 
+- prevent difficulty jumps tests + functionality
+(reason: Prevented a potential difficulty jump attack by adding extra validation for the blockchain.)
+
+## API and Network
+- Set up Express API
+- Add first get request
