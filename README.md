@@ -32,3 +32,5 @@
 
 ## Proof of Work Enhancements
 - binary hashes
+- binary hash refactor
+- prevent difficulty jumps tests + functionality 
