@@ -40,4 +40,4 @@
 - Set up Express API
 - Add first get request
 - Redis Publisher (pub) / Subscriber (sub) class redis Server --daemonize yes
--
+- Broad Cast Chain ( multiple chains interacting)
