@@ -39,3 +39,4 @@
 ## API and Network
 - Set up Express API
 - Add first get request
+- Redis Publisher (pub) / Subscriber (sub) class
