@@ -16,3 +16,8 @@
 - block chain to pass/function
 - chain validation tests
 - chain validation to pass/function
+- chain replacement
+- adding stubs to the tests jest mock and error mineBlock
+
+# Proof of work
+- difficulty and the nonce tests
