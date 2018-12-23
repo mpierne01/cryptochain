@@ -39,4 +39,5 @@
 ## API and Network
 - Set up Express API
 - Add first get request
-- Redis Publisher (pub) / Subscriber (sub) class
+- Redis Publisher (pub) / Subscriber (sub) class redis Server --daemonize yes
+-
