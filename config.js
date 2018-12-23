@@ -1,3 +1,6 @@
+
+const MINE_RATE = 1000;
+//in prod make this difficulty much harder than 3. Make it 3 for dev so it doesn't take forever to test.
 const INITIAL_DIFFICULTY = 3;
 
 const GENESIS_DATA = {
@@ -9,4 +12,4 @@ const GENESIS_DATA = {
   data: [],
 };
 
-module.export = { GENESIS_DATA };
+module.export = { GENESIS_DATA, MINE_RATE,};

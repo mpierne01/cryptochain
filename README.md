@@ -22,4 +22,4 @@
 # Proof of work
 - difficulty and the nonce tests
 - difficulty and nonce pass/function
--
+- adding dynamic difficulty and mine rate tests
