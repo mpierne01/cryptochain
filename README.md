@@ -44,8 +44,11 @@
 - Start Peers and broad cast chain on API Mine multiple ports
 - sync on connection
 
-## Wallet, Keys, and Transactions
+## Wallet and Keys
 - Create Wallet Test Classes
 - key pair and public key address (256)  ((EC curve))
 - verify wallet signature
-- Transactions tests
+
+## Transactions
+- Transaction tests
+- Tests to pass/function
