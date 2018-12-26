@@ -1,6 +1,6 @@
-const Blockchain = require('./blockchain');
+const Blockchain = require('./index');
 const Block = require('./block');
-const cryptoHash = require('.crypto-hash');
+const { cryptoHash } = require('../util');
 
 describe('Blockchain', () => {
   const blockchain = new Blockchain();
@@ -71,7 +71,7 @@ describe('isValidChain()', () => {
               expect(Blockchain.isValidChain(blockchain.chain)).toBe(false);
             });
           });
-          
+
           describe('and the chain does not contain any invalid blocks', () => {
                  it('returns true', () => {
                    expect(Blockchain.isValidChain(blockchain.chain)).toBe(true);
