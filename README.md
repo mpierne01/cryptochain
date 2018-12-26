@@ -48,3 +48,4 @@
 - Create Wallet Test Classes
 - key pair and public key address (256)  ((EC curve))
 - verify wallet signature
+- Transactions tests
