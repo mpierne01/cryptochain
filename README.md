@@ -42,3 +42,4 @@
 - Redis Publisher (pub) / Subscriber (sub) class redis Server --daemonize yes
 - Broad Cast Chain ( multiple chains interacting)
 - Start Peers and broad cast chain on API Mine multiple ports
+- sync on connection

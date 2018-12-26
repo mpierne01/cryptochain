@@ -22,9 +22,10 @@ app.post('/api/mine', (req, res) => {
 
   blockchain.addBlock({ data });
 
- pubsub.broadcastChain();
-    res.redirect('/api/blocks');
-});
+  pubsub.broadcastChain();
+
+   res.redirect('/api/blocks');
+ });
 
 const DEFAULT_PORT = 3000;
 let PEER_PORT;
