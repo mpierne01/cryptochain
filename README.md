@@ -55,3 +55,15 @@
 - Validate Transactions
 - Adding transaction update tests
 - Transaction Pool Tests
+- Transaction Pool API work to pass
+- build mine reward
+
+## Mine Transactions
+- Transactons miner class
+- Validation tests
+- Reward Transactions
+- Clear Blockchain Transactions
+- Mine Transactions Endpoint
+- Clear Recorded Transactions
+- Calculate Wallet Balance
+- Validate transaction blocks, transaction data, inputs, and transaction chain
