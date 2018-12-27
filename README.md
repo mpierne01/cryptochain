@@ -67,3 +67,9 @@
 - Clear Recorded Transactions
 - Calculate Wallet Balance
 - Validate transaction blocks, transaction data, inputs, and transaction chain
+
+## Client Front End
+- Wallet
+- Visualize Blocks
+- Transactions
+- Mine
